@@ -1,0 +1,24 @@
+     .fruits{
+         border: 2px solid blue;
+         color: white;
+background-color: blue;
+         text-align: center;
+         padding: 15px;
+         margin: 20px;
+     }
+     .cars{
+         background-color: blue;
+         color: mediumvioletred;
+     }
+#countries{
+    border: 2px solid yellow;
+    color: white;
+    background-color: purple;
+    text-align: center;
+    padding: 15px;
+    margin: 20px;
+}
+#schools{
+    background-color: aquamarine;
+    color: red;
+}
